@@ -13,7 +13,7 @@ Momentan nutze ich nur die igpu
 
 
 
-OpenCore 0.7.6
+OpenCore 0.8.8 Developer
 Imac20,2
 Getestet mit Catalina und Big Sur und Monterey
 Keine WLAN / Bluetooth Kexte in der EFI
